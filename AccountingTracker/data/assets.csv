@@ -1,0 +1,4 @@
+asset_name,purchase_date,cost,useful_life,salvage_value
+Office Equipment,2024-01-01,5000.0,5,500.0
+Delivery Vehicle,2024-01-01,80000.0,10,8000.0
+Store Fixtures,2024-01-01,15000.0,7,1500.0
