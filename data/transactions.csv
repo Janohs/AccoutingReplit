@@ -1,0 +1,174 @@
+date,type,category,description,amount,payment_method
+2024-01-31,Income,Bank Sale,,3823.6,Bank
+2024-01-31,Income,Cash Sale,,4776.3,Cash
+2024-01-31,Expense,Purchase,BAKEWELL,223.4,Bank
+2024-01-31,Expense,Rental,BBSS,900.0,Bank
+2024-01-31,Expense,Packaging,ZEN HEO,99.0,Bank
+2024-01-31,Expense,Packaging,EMFY TECH,307.1,Bank
+2024-01-31,Expense,Rental,PASASERA,400.0,Bank
+2024-01-31,Expense,Purchase,NOBBY,96.6,Bank
+2024-01-31,Expense,Director's Salary,LEE LENG PIN,800.0,Bank
+2024-01-31,Expense,Egg,SUPERMARKET,28.6,Cash
+2024-01-31,Expense,Upkeep of Shop,UPKEEP OF SHOP,9.9,Cash
+2024-01-31,Expense,Purchase,INGREDIENTS,784.85,Cash
+2024-01-31,Expense,Fruits,FRUITS,363.15,Cash
+2024-01-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-01-31,Expense,Packaging,BOXED,348.5,Cash
+2024-01-31,Expense,Director's Salary,LEE LENG PIN,2700.0,Cash
+2024-01-31,Expense,Stationary,STATIONARY,21.7,Cash
+2024-01-31,Expense,Bonus,LEE LENG PIN,10000.0,Cash
+2024-02-29,Income,Bank Sale,SALES,3004.1,Bank
+2024-02-29,Income,Cash Sale,SALES,7019.2,Cash
+2024-02-29,Expense,Rental,BBSS,900.0,Bank
+2024-02-29,Expense,Electricity,TNB,1127.55,Bank
+2024-02-29,Expense,Director's Salary,LEE LENG PIN,1550.0,Bank
+2024-02-29,Expense,Egg,EGG,91.5,Cash
+2024-02-29,Expense,Upkeep of Shop,UPKEEP OF SHOP,7.0,Cash
+2024-02-29,Expense,Purchase,PURCHASE,506.45,Cash
+2024-02-29,Expense,Fruits,FRUITS,390.55,Cash
+2024-02-29,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-02-29,Expense,Packaging,PACKAGING,110.05,Cash
+2024-02-29,Expense,Director's Salary,LEE LENG PIN,1950.0,Cash
+2024-02-29,Expense,Kitchen Supply,KITCHEN SUPPLY,15.9,Cash
+2024-02-29,Expense,Kitchen Supply,KITCHEN SUPPLY,15.9,Cash
+2024-02-29,Expense,Stationary,STATIONARY,23.0,Cash
+2024-02-29,Expense,Equipment Service,EQUIPMENT,390.0,Cash
+2024-03-31,Income,Bank Sale,SALES,3352.8,Bank
+2024-03-31,Income,Cash Sale,SALES,5622.4,Cash
+2024-03-31,Expense,Rental,BBSS,900.0,Bank
+2024-03-31,Expense,Electricity,TNB,1000.3,Bank
+2024-03-31,Expense,Purchase,BAKEWELL,169.3,Bank
+2024-03-31,Expense,Purchase,NOBBY,189.75,Bank
+2024-03-31,Expense,Director's Salary,LEE LENG PIN,2100.0,Bank
+2024-03-31,Expense,Egg,EGG,24.6,Cash
+2024-03-31,Expense,Purchase,INGREDIENTS,1189.55,Cash
+2024-03-31,Expense,Fruits,INGREDIENTS,255.9,Cash
+2024-03-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-03-31,Expense,Packaging,PACKAGING,154.1,Cash
+2024-03-31,Expense,Director's Salary,LEE LENG PIN,1400.0,Cash
+2024-04-30,Income,Bank Sale,SALES,1903.8,Bank
+2024-04-30,Income,Cash Sale,SALES,6247.4,Cash
+2024-04-30,Expense,Rental,BBSS,900.0,Bank
+2024-04-30,Expense,Electricity,TNB,2301.4,Bank
+2024-04-30,Expense,Egg,EGG,69.6,Cash
+2024-04-30,Expense,Upkeep of Shop,UP KEEP OF SHOP,4.7,Cash
+2024-04-30,Expense,Purchase,INGREDIENTS,874.4,Cash
+2024-04-30,Expense,Fruits,FRUITS,308.5,Cash
+2024-04-30,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-04-30,Expense,Packaging,PACKAGING,210.2,Cash
+2024-04-30,Expense,Director's Salary,LEE LENG PIN,3500.0,Cash
+2024-04-30,Expense,Equipment Service,SERVICE,70.0,Cash
+2024-05-31,Income,Bank Sale,SALES,3586.0,Bank
+2024-05-31,Income,Cash Sale,SALES,8820.9,Cash
+2024-05-31,Expense,Rental,BBSS,900.0,Bank
+2024-05-31,Expense,Purchase,BAKEWELL,170.5,Bank
+2024-05-31,Expense,Purchase,BWY,222.85,Bank
+2024-05-31,Expense,Egg,EGG,74.6,Cash
+2024-05-31,Expense,Purchase,INGREDIENTS,1067.45,Cash
+2024-05-31,Expense,Fruits,FRUITS,828.0,Cash
+2024-05-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-05-31,Expense,Packaging,PACKAGING,204.5,Cash
+2024-05-31,Expense,Director's Salary,LEE LENG PIN,3500.0,Cash
+2024-05-31,Expense,Stationary,STATIONARY,91.0,Cash
+2024-06-30,Income,Bank Sale,SALES,2865.4,Bank
+2024-06-30,Income,Cash Sale,SALES,7101.0,Cash
+2024-06-30,Expense,Rental,BBSS,900.0,Bank
+2024-06-30,Expense,Electricity,TNB,1296.45,Bank
+2024-06-30,Expense,Purchase,BAKEWELL,165.1,Bank
+2024-06-30,Expense,Purchase,NOBBY,358.9,Bank
+2024-06-30,Expense,Director's Salary,LEE LENG PIN,2800.0,Bank
+2024-06-30,Expense,Egg,EGG,78.6,Cash
+2024-06-30,Expense,Purchase,INGREDIENTS,823.25,Cash
+2024-06-30,Expense,Fruits,FRUITS,549.55,Cash
+2024-06-30,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-06-30,Expense,Packaging,PACKAGING,158.4,Cash
+2024-06-30,Expense,Director's Salary,LEE LENG PIN,700.0,Cash
+2024-06-30,Expense,Equipment Service,SERVICE,110.0,Cash
+2024-07-31,Income,Bank Sale,SALES,2372.8,Bank
+2024-07-31,Income,Cash Sale,SALES,5952.0,Cash
+2024-07-31,Expense,Rental,BBSS,900.0,Bank
+2024-07-31,Expense,Electricity,TNB,500.0,Bank
+2024-07-31,Expense,Purchase,BAKEWELL,226.5,Bank
+2024-07-31,Expense,Purchase,RAKANDA,200.0,Bank
+2024-07-31,Expense,Water,PAIP,348.0,Bank
+2024-07-31,Expense,Purchase,NOBBY,312.5,Bank
+2024-07-31,Expense,Egg,EGG,94.2,Cash
+2024-07-31,Expense,Upkeep of Shop,UPKEEP OF SHOP,44.4,Cash
+2024-07-31,Expense,Purchase,INGREDIENTS,785.2,Cash
+2024-07-31,Expense,Fruits,FRUITS,495.85,Cash
+2024-07-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-08-31,Income,Bank Sale,SALES,4333.3,Bank
+2024-08-31,Income,Cash Sale,SALES,5961.0,Cash
+2024-08-31,Expense,Electricity,TNB,1152.55,Bank
+2024-08-31,Expense,Purchase,BAKEWELL,265.35,Bank
+2024-08-31,Expense,Equipment Service,PPT,420.0,Bank
+2024-08-31,Expense,Director's Salary,LEE LENG PIN,600.0,Bank
+2024-08-31,Expense,Egg,EGG,111.6,Cash
+2024-08-31,Expense,Purchase,INGREDIENTS,940.0,Cash
+2024-08-31,Expense,Fruits,FRUITS,616.45,Cash
+2024-08-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-08-31,Expense,Packaging,PACKAGING,161.85,Cash
+2024-08-31,Expense,Director's Salary,LEE LENG PIN,2900.0,Cash
+2024-08-31,Expense,Stationary,STATIONARY,8.7,Cash
+2024-08-31,Expense,Rental,BBSS,900.0,Cash
+2024-09-30,Income,Bank Sale,SALES,3427.5,Bank
+2024-09-30,Income,Cash Sale,SALES,6454.3,Cash
+2024-09-30,Expense,Rental,BBSS,900.0,Bank
+2024-09-30,Expense,Purchase,RAKANDA,119.3,Bank
+2024-09-30,Expense,Purchase,BAKEPRO AND SWEET LOVELY ,115.1,Bank
+2024-09-30,Expense,Equipment Service,PPT,880.0,Bank
+2024-09-30,Expense,Purchase,UT UNION,264.0,Bank
+2024-09-30,Expense,Purchase,UT UNION,264.0,Bank
+2024-09-30,Expense,Purchase,,174.2,Bank
+2024-09-30,Expense,Purchase,NOBBY,413.0,Bank
+2024-09-30,Expense,Director's Salary,LEE LENG PIN,1500.0,Bank
+2024-09-30,Expense,Egg,EGG,80.95,Cash
+2024-09-30,Expense,Upkeep of Shop,,10.0,Cash
+2024-09-30,Expense,Purchase,INGREDIENTS,762.65,Cash
+2024-09-30,Expense,Fruits,FRUITS,214.7,Cash
+2024-09-30,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-10-31,Income,Bank Sale,SALES,4095.04,Bank
+2024-10-31,Income,Cash Sale,SALES,6387.45,Cash
+2024-10-31,Expense,Rental,BBSS,900.0,Bank
+2024-10-31,Expense,Purchase,BAKEWELL,131.7,Bank
+2024-10-31,Expense,Purchase,BWY,152.8,Bank
+2024-10-31,Expense,Equipment Service,PASTRYPRO,574.4,Bank
+2024-10-31,Expense,Equipment Service,NOBBY,379.5,Bank
+2024-10-31,Expense,Egg,EGG,34.2,Cash
+2024-10-31,Expense,Upkeep of Shop,UP KEEP OF SHOP,92.85,Cash
+2024-10-31,Expense,Purchase,INGREDIENTS,1647.9,Cash
+2024-10-31,Expense,Fruits,FRUITS,529.35,Cash
+2024-10-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-10-31,Expense,Packaging,PACKAGING,172.0,Cash
+2024-10-31,Expense,Director's Salary,LEE LENG PIN,3500.0,Cash
+2024-10-31,Expense,Equipment Service,PPT,180.0,Cash
+2024-10-31,Expense,Gas,GAS,62.0,Cash
+2024-11-30,Income,Bank Sale,SALES,3571.22,Bank
+2024-11-30,Income,Cash Sale,SALES,6750.0,Cash
+2024-11-30,Expense,Rental,BBSS,900.0,Bank
+2024-11-30,Expense,New Equipment,FRIDGE HENSEN,868.0,Bank
+2024-11-30,Expense,Equipment Service,PPT,180.0,Bank
+2024-11-30,Expense,Purchase,NOBBY,423.8,Bank
+2024-11-30,Expense,Director's Salary,LEE LENG PIN,1600.0,Bank
+2024-11-30,Expense,Egg,EGG,96.0,Cash
+2024-11-30,Expense,Upkeep of Shop,UP KEEP OF SHOP,132.0,Cash
+2024-11-30,Expense,Purchase,INGREDIENT,122.35,Cash
+2024-11-30,Expense,Fruits,FRUITS,563.65,Cash
+2024-11-30,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-11-30,Expense,Packaging,PACKAGING,428.55,Cash
+2024-11-30,Expense,Director's Salary,LEE LENG PIN,1900.0,Cash
+2024-11-30,Expense,Stationary,STATIONARY,6.8,Cash
+2024-12-31,Income,Bank Sale,SALES,3304.72,Bank
+2024-12-31,Income,Cash Sale,SALES,6359.1,Cash
+2024-12-31,Expense,Rental,BBSS,900.0,Bank
+2024-12-31,Expense,Electricity,TNB,920.65,Bank
+2024-12-31,Expense,License and Registration,MBK,542.5,Bank
+2024-12-31,Expense,Director's Salary,LEE LENG PIN,1000.0,Bank
+2024-12-31,Expense,Egg,EGG,70.8,Cash
+2024-12-31,Expense,Upkeep of Shop,UP KEEP OF SHOP,21.5,Cash
+2024-12-31,Expense,Purchase,INGREDIENTS,1027.7,Cash
+2024-12-31,Expense,Fruits,FRUITS,407.25,Cash
+2024-12-31,Expense,Staff Salary,SALARY,3000.0,Cash
+2024-12-31,Expense,Packaging,PACKAGING,238.5,Cash
+2024-12-31,Expense,Director's Salary,LEE LENG PIN,2500.0,Cash
+2024-12-31,Expense,Stationary,STATIONARY,7.8,Cash
